@@ -1,0 +1,5 @@
+{
+  "name": "Janken Game",
+  "description": "A stylish and modern Rock-Paper-Scissors game built with React and Tailwind CSS, where you can play against the computer.",
+  "requestFramePermissions": []
+}
